@@ -8,6 +8,6 @@ class HelloWorld
     { 
         System.out.println("Hello, World"); 
 	System.out.println("This is a new line!"); // New print line added
-	System.out.printlin("New Line 2");
+	System.out.println("New Line 2");
     } 
 }
